@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.heg/
+HEG-Materials/
+.DS_Store
